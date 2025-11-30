@@ -18,9 +18,9 @@
     "servers": [
       "78.157.42.100",
       "78.157.42.101",
-      "8.8.8.8",
+      "108.162.198.69",
       "104.21.83.62",
-      "172.67.214.246",
+      "172.64.32.148",
       "185.236.104.104"
     ]
   },
@@ -126,7 +126,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "randomized",
+          "fingerprint": "chrome",
           "serverName": "www.google.com",
           "show": false
         },
@@ -271,10 +271,10 @@
     },
     "servers": [
         "https://1.1.1.1/dns-query",
-        "https://sky.rethinkdns.com/dns-query",
-        "https://sky.rethinkdns.com/dns-query",
+        "https://free.shecan.ir/dns-query",
+        "https://wikimedia-dns.org/dns-query",
         "https://ada.openbld.net/dns-query",
-        "https://mozilla.cloudflare-dns.com/dns-query"
+        "https://doh.flashstart.com/f17c9ee5"
     ]
   },
   "inbounds": [
@@ -379,7 +379,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "randomized",
+          "fingerprint": chrome",
           "serverName": "www.google.com",
           "show": false
         },
